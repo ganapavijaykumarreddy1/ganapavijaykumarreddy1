@@ -1,4 +1,4 @@
- Hi there 👋, I'm Vijay Kumar Reddy Ganapa
+ ## Hi there 👋, I'm Vijay Kumar Reddy Ganapa
 
  AI • Machine Learning • Deep Learning • Computer Vision • Generative AI • Agentic AI
 
