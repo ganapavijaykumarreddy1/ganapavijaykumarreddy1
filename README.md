@@ -1,132 +1,100 @@
- ## Hi there 👋, I'm Vijay Kumar Reddy Ganapa
+# Hi there 👋, I'm Vijay Kumar Reddy Ganapa
 
- AI • Machine Learning • Deep Learning • Computer Vision • Generative AI • Agentic AI
+### AI | Machine Learning | Deep Learning | Computer Vision | Generative AI
 
-🎓 B.Tech Computer Science & Engineering Student at RGUKT Nuzvid
+I'm a Computer Science undergraduate at RGUKT Nuzvid with a strong interest in Machine Learning, Deep Learning, Computer Vision, and AI Security. I enjoy building intelligent systems and exploring how machine learning models can be made more robust, reliable, and secure.
+
+---
+
+## 📌 Highlights & Education
+
+🎓 B.Tech Computer Science and Engineering, RGUKT Nuzvid (CGPA: 9.1)
 
 📚 Minor Degree in Machine Learning
 
-🔬 Interested in Machine Learning, Deep Learning, Computer Vision, Generative AI, Data Analytics and Adversarial Machine Learning
+🏅 GATE CS 2026 — AIR 2519 (Score: 625)
 
-🚀 Passionate about building intelligent systems and studying the robustness and security of AI models
+🥇 Winner — Machine Learning Escape Room Challenge, Teckzite 2025
 
----
-
-## 🎯 About Me
-
-* 🎓 B.Tech CSE (2023–2027) at RGUKT Nuzvid (CGPA: 9.1)
-* 📖 Pursuing a Minor Degree in Machine Learning
-* 🏅 GATE CS 2026 AIR 2519 (Score: 625)
-* 🏆 Winner – Machine Learning Escape Room Challenge, Teckzite 2025
-* 🔍 Exploring Adversarial Machine Learning and AI Security
-* 🤖 Interested and working in Generative AI, Agentic AI, and building intelligent AI-driven systems
+🏆 NPTEL Foundations of Deep Learning (IISc Bangalore) — 91% (Top 2%)
 
 ---
 
-## 🛠️ Technical Skills
+## 🛠️ Tech Stack
 
-### Artificial Intelligence & Data Science
-
-* Machine Learning
-* Deep Learning
-* Computer Vision
-* Generative AI
-* Data Analytics
-
-### Programming Languages
+**Languages**
 
 * Python
 * C
 
-### Data Science Stack
+**Machine Learning & AI**
 
-* NumPy
-* Pandas
-* Matplotlib
 * Scikit-Learn
 * PyTorch
-* Tensorflow
+* TensorFlow
+* Computer Vision
+* Deep Learning
+* Generative AI
 
-### Core Computer Science
+**Data Science**
 
-* Data Structures
-* DBMS & SQL
+* Pandas
+* NumPy
+* Matplotlib
+
+**Core CS**
+
+* Data Structures & Algorithms
+* DBMS
 * Operating Systems
 * Computer Networks
-* Engineering Mathematics
-
-### Soft Skills
-
-* Problem Solving
-* Team Collaboration
-* Effective Communication
 
 ---
 
-## 🚀 Projects
+## 🚀 Featured Projects
 
 ### 🧠 Brain Tumor Classification using Deep Learning
 
-Developed a CNN-based brain tumor classification system using PyTorch for multi-class MRI image classification.
+Developed a deep learning pipeline for multi-class brain tumor classification from MRI images using PyTorch.
 
-**Highlights**
+**Key Contributions**
 
-* DenseNet121 and EfficientNet-B0 architectures
-* Data augmentation and preprocessing pipeline
-* MRI image classification across four tumor categories
-* Strong baseline performance for medical imaging applications
+* Implemented DenseNet121 and EfficientNet-B0 architectures
+* Built preprocessing and augmentation pipelines
+* Evaluated performance across four MRI tumor categories
+* Explored practical applications in medical image analysis
 
 ---
 
 ### 🛡️ Adversarial Attacks in Medical Imaging
 
-Studied the vulnerability of brain tumor classification models against adversarial attacks.
+Investigated the robustness of medical imaging models against adversarial attacks.
 
-**Highlights**
+**Key Contributions**
 
 * Implemented FGSM and PGD attacks
-* White-box and transfer-based black-box evaluation
-* Robustness analysis under varying perturbation levels
-* Investigated AI security in healthcare systems
+* Performed white-box and transfer-based black-box evaluations
+* Analyzed robustness degradation under varying perturbation strengths
+* Studied security challenges in AI-powered healthcare systems
 
 ---
 
 ## 📜 Certifications
 
-### NPTEL Elite Certifications
-
 * Foundations of Deep Learning: Concepts and Applications (IISc Bangalore)
-  * Score: 91%
-  * Top 2% Topper
-
 * AI Search Methods for Problem Solving (IIT Madras)
-  * Score: 81%
-
-* Statistical Foundation for Big Data Analysis (IIT Kharagpur)
-  * Score: 77%
-
-### Infosys Springboard Certifications
-
+* Statistical Foundations for Big Data Analysis (IIT Kharagpur)
 * Deep Learning for Developers
 * Generative Models for Developers
 * OpenAI GPT-3 for Developers
 
 ---
 
-## 🏆 Achievements
-🎖️ GATE CS 2026 AIR 2519 (Score: 625)
+## 🎯 Current Focus
 
-🥇 Winner – Machine Learning Escape Room Challenge (Teckzite 2025)
-
-📈 Consistent Academic Excellence throughout school and university
-
----
-
-## 🌱 Currently Learning
-
-* Advanced Deep Learning
 * Adversarial Machine Learning
 * Large Language Models (LLMs)
+* AI Security & Robustness
 * Agentic AI Systems
 
 ---
@@ -135,10 +103,6 @@ Studied the vulnerability of brain tumor classification models against adversari
 
 📧 Email: [ganapavijaykumarreddy1@gmail.com](mailto:ganapavijaykumarreddy1@gmail.com)
 
-💼 LinkedIn: [www.linkedin.com/in/vijay-kumar-reddy-ganapa](http://www.linkedin.com/in/vijay-kumar-reddy-ganapa)
+💼 LinkedIn: linkedin.com/in/vijay-kumar-reddy-ganapa
 
-🐙 GitHub: github.com/ganapavijaykumarreddy1
-
----
-
-⭐ "Building reliable and secure AI systems through continuous learning, research, and experimentation."
+⭐ Feel free to explore my repositories and connect with me.
