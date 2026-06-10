@@ -12,7 +12,7 @@
 
 ---
 
-#🎯 About Me
+## 🎯 About Me
 
 * 🎓 B.Tech CSE (2023–2027) at RGUKT Nuzvid (CGPA: 9.1)
 * 📖 Pursuing a Minor Degree in Machine Learning
