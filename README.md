@@ -54,22 +54,11 @@ I'm a Computer Science undergraduate at RGUKT Nuzvid with a strong interest in M
 ## 🚀 Featured Projects
 
  ### PaperMind AI 
- Built a  GenAI-powered Research Paper Intelligence Platform  using 
- Gemini, FAISS, Streamlit, and Retrieval-Augmented Generation (RAG)  . 
- Implemented semantic document retrieval, citation-aware 
- conversational Q&A, automated summarization, metadata extraction, 
- and research-gap analysis with  impact, novelty, and feasibility scoring  . 
- Developed interview-question generation, presentation-content 
- extraction, and PDF  export features for research workflows. 
+ Built a  GenAI-powered Research Paper Intelligence Platform using Gemini, FAISS, Streamlit, and Retrieval-Augmented Generation (RAG). 
+ Implemented semantic document retrieval, citation-aware conversational Q&A, automated summarization, metadata extraction, and research-gap analysis with  impact,  novelty, and feasibility scoring. Developed interview-question generation, presentation-content extraction, and PDF  export features for research workflows. 
  
  ### Adversarial Robustness Analysis of Brain Tumor MRI Classifiers 
- Developed MRI-based brain tumor classifiers using MobileNetV2, 
- DenseNet121, and EfficientNet-B0 (up to  94.5% accuracy  ) and evaluated 
- their robustness against  FGSM  and  PGD  adversarial attacks. Identified 
- significant architecture-dependent vulnerability(  DenseNet121 retained 
- ~84% accuracy vs. EfficientNet-B0 ~24% at ε=2.0  ) demonstrating 
- performance degradation and currently investigating advanced attacks 
- and defense mechanisms for robust medical AI systems.
+ Developed MRI-based brain tumor classifiers using MobileNetV2, DenseNet121, and EfficientNet-B0 (up to  94.5% accuracy  ) and evaluated  their robustness against  FGSM  and  PGD  adversarial attacks. Identified significant architecture-dependent vulnerability(  DenseNet121 retained  ~84% accuracy vs. EfficientNet-B0 ~24% at ε=2.0  ) demonstrating performance degradation and currently investigating advanced attacks  and defense mechanisms for robust medical AI systems.
  
 ---
 
