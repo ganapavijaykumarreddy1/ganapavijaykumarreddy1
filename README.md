@@ -40,18 +40,29 @@ I'm a Computer Science undergraduate at RGUKT Nuzvid with a strong interest in M
 
 ## 🚀 Featured Projects
 
- ### NetShield AI - Network Anomaly Detection & Threat Monitoring System
- Built an end-to-end network security platform integrating live packet monitoring, traffic analysis, canonical feature extraction, and AI-powered threat detection with a Random Forest classifier achieving ~99.7% accuracy and 0.9971 weighted F1-score on CICIDS2017 dataset. Implemented a canonical feature pipeline with 25 real-time network-flow features, enabling consistent model inference across live traffic and training data while supporting threat classification and risk scoring.
-Developed SOC workflows including real-time threat alerts, Gmail notifications, incident management, security analytics, attack visualization, and automated threat/incident reporting
-Tech Stack: Python, FastAPI, React.js, PostgreSQL, Scikit-learn, Pandas, NumPy, Scapy, Chart.js, Tailwind CSS,
-JWT, Docker, Git/GitHub
- ### PaperMind AI 
-  Built a modern Multi-Document  Research Paper Intelligence  Platform using  Gemini, FAISS, Streamlit, and RAG  . Implemented semantic search, papers comparison,   citation-aware Q&A  , literature review matrices, and research gap scorecard  tables with feasibility scoring. Developed an autonomous arXiv research agent  to    search and recommend papers, automated summaries, presentation slide drafting, interview prep, and  PDF export features. Working to make it scalable and           production ready.
- 
- ### Adversarial Robustness Analysis of Brain Tumor MRI Classifiers 
- Developed MRI-based brain tumor classifiers using MobileNetV2, DenseNet121, and EfficientNet-B0 (up to  94.5% accuracy  ) and evaluated  their robustness against  FGSM  and  PGD  adversarial attacks. Identified significant architecture-dependent vulnerability(  DenseNet121 retained  ~84% accuracy vs. EfficientNet-B0 ~24% at ε=2.0  ) demonstrating performance degradation and currently investigating advanced attacks  and defense mechanisms for robust medical AI systems.
-Tech stack: PyTorch, Deep Learning- CNNs, Computer Vision
-Tech stack: Python, Streamlit, Gemini API, FAISS, LangChain
+ **NetShield AI - Network Anomaly Detection & Threat Monitoring System**
+• Built an end-to-end network security platform integrating live packet monitoring, traffic analysis, canonical feature extraction, and AI-powered threat detection using a Random Forest classifier (achieved ~99.7% accuracy and 0.9971 weighted F1-score on the CICIDS2017 dataset). 
+• Implemented a canonical feature pipeline extracting 25 real-time network-flow features, enabling consistent model inference across live traffic and training data while supporting dynamic threat classification and risk scoring. 
+• Developed comprehensive SOC workflows including real-time threat alerts, automated Gmail notifications, incident management, attack visualization, and dynamic threat reporting. 
+• **Tech Stack:** Python, FastAPI, React.js, PostgreSQL, Scikit-learn, Pandas, NumPy, Scapy, Chart.js, Tailwind CSS, JWT, Docker, Git/GitHub 
+
+**Self-Pruning Neural Network - Dynamic Sparsity & Model Compression**
+• Architected and implemented a custom feed-forward neural network for CIFAR-10 classification featuring a dynamic, training-aware self-pruning mechanism rather than relying on traditional post-training pruning.
+• Engineered a custom PyTorch layer (`PrunableLinear`) that pairs every weight with a learnable sigmoid gate, applying a constant L1 sparsity penalty alongside the Cross-Entropy loss to forcefully push non-critical connections to exactly zero during backpropagation.
+• Conducted comprehensive hyperparameter sweeps over the sparsity regularization coefficient ($\lambda$), discovering an optimal configuration that achieved **57.99%** hard-pruned test accuracy while successfully compressing the network by pruning **81.91%** of all parameters.
+• **Tech Stack:** Python, PyTorch, Torchvision, Pandas, NumPy, Matplotlib, Git/GitHub
+
+ **PaperMind AI - Research Paper Intelligence Platform**
+• Architected a multi-document Research Paper Intelligence platform leveraging Gemini, FAISS, Streamlit, and advanced Retrieval-Augmented Generation (RAG) methodologies. 
+• Implemented comprehensive research features including semantic search, paper comparison, citation-aware Q&A, literature review matrices, and automated research gap analysis. 
+• Designed complex LLM-powered workflows combining semantic retrieval, prompt chaining, citation-aware reasoning, and automated summarization to accelerate literature reviews. 
+• **Tech Stack:** Python, Streamlit, Gemini API, FAISS, LangChain 
+
+**Adversarial Robustness Analysis of CNN-Based Medical Image Classifiers**
+• Built deep learning-based brain tumor MRI classifiers utilizing MobileNetV2, DenseNet121, and EfficientNet-B0 architectures, achieving up to 94.5% baseline classification accuracy. 
+• Assessed model robustness against FGSM and PGD adversarial attacks to systematically evaluate security risks and vulnerabilities in medical AI deployments. 
+• Identified critical architecture-dependent resilience profiles; discovered DenseNet121 maintained ~84% accuracy compared to EfficientNet-B0's ~24% under severe attack perturbations (ε=2.0). 
+• **Tech Stack:** Python, PyTorch, Deep Learning (CNNs), Computer Vision
 
 ---
 
@@ -64,7 +75,7 @@ Tech stack: Python, Streamlit, Gemini API, FAISS, LangChain
 ---
 
 ## 🎯 Current Focus
-
+* Model Finetuning
 * Adversarial Machine Learning
 * Large Language Models (LLMs)
 * AI Security & Robustness
