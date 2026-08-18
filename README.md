@@ -41,6 +41,7 @@ I'm a Computer Science undergraduate at RGUKT Nuzvid with a strong interest in M
 ## 🚀 Featured Projects
 
  **NetShield AI - Network Anomaly Detection & Threat Monitoring System**
+ 
  **🚀 Live Deployment:** [http://40.192.61.130](http://40.192.61.130)
 * Built an end-to-end network security platform integrating live packet monitoring, traffic analysis, canonical feature extraction, and AI-powered threat detection using a Random Forest classifier (achieved ~99.7% accuracy and 0.9971 weighted F1-score on the CICIDS2017 dataset).
 * Implemented a canonical feature pipeline extracting 25 real-time network-flow features, enabling consistent model inference across live traffic and training data while supporting dynamic threat classification and risk scoring.
@@ -54,6 +55,7 @@ I'm a Computer Science undergraduate at RGUKT Nuzvid with a strong interest in M
 * **Tech Stack:** Python, PyTorch, Torchvision, Pandas, NumPy, Matplotlib, Git/GitHub
 
  **PaperMind AI - Research Paper Intelligence Platform**
+ 
   **🚀 Live Deployment:** [https://papermind-ai-gvkr.streamlit.app/](https://papermind-ai-gvkr.streamlit.app/)
  * Architected a multi-document Research Paper Intelligence platform leveraging Gemini, FAISS, Streamlit, and advanced Retrieval-Augmented Generation (RAG) methodologies.
  * Implemented comprehensive research features including semantic search, paper comparison, citation-aware Q&A, literature review matrices, and automated research gap analysis.
